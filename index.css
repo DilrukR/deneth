@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.sec_1 {
+  background-image: url("./Anime\ \(6\).jpg");
+  height: 700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 1000px;
+}
+
+.sec_2 {
+  background-image: url("./General\ \(59\).jpg");
+  height: 700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: -20px -30px;
+  display: flex;
+}
+.container {
+  background-color: none;
+  width: 80vw;
+  margin: 0 auto;
+}
+.top-header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+#navlist {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+#navlist li {
+  margin-left: 70px;
+}
+#navlist li:last-child {
+  margin-right: 20px;
+}
+.container #logo {
+  font-size: 100px;
+  font-style: oblique;
+}
+.container #navlist {
+  font-size: 30px;
+  color: beige;
+}
+.flstm {
+  margin-top: 200px;
+  display: flex;
+  padding: 50px;
+  color: coral;
+  font-size: 30px;
+  display: flexbox;
+}
+#b1 {
+  margin: 0 auto;
+}
